@@ -1,0 +1,6 @@
+name: Customcrafttingg
+version: ${project.version}
+main: me.shalev.customcrafttingg.Main
+api-version: 1.17
+authors: [ shalev ]
+description: dsa
